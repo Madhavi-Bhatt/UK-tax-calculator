@@ -2,8 +2,6 @@
 
 A modern, feature-rich UK tax calculator web application that helps users calculate their take-home pay, tax deductions, and generate professional payslips.
 
-**Developer**: Sagar Gondaliya
-
 ## Features
 
 ### Core Functionality
