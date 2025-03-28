@@ -175,13 +175,13 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - HMRC for tax band information
 - Bootstrap team for the UI framework
 - jsPDF team for PDF generation capabilities
-- Developed by Sagar Gondaliya
+- Developed by Madhavi Bhatt
 
 ## Contact
 
 For any questions, suggestions, or contributions, please contact:
-- Developer: Sagar Gondaliya
-- GitHub: [Your GitHub Profile]
+- Developer: Madhavi Bhatt
+
 
 ## Keywords
-UK tax calculator, take home pay calculator, salary calculator, income tax calculator, National Insurance calculator, student loan calculator, tax code calculator, UK salary calculator, gross to net calculator, net to gross calculator, 2023/24 tax calculator, UK tax bands, personal allowance calculator 
+UK tax calculator, take home pay calculator, salary calculator, income tax calculator, National Insurance calculator, student loan calculator, tax code calculator, UK salary calculator, gross to net calculator, net to gross calculator, 2024/25 tax calculator, UK tax bands, personal allowance calculator 
